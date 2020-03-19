@@ -2,7 +2,6 @@
 """
 Created on Wed Sep 25 14:57:00 2019
 
-@author: FLOo
 Les indices des elements des matrice sont souvent opposés à ceux des demonstrations du
 cours car j'utilise ici des vecteurs en ligne et non en colone.
 """
